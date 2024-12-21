@@ -9,15 +9,15 @@
     >
 
     <div class="wrapper">
-      <HelloWorld msg="You did it!" />
-      {{ test('dasdasdasdas dasdaskdjaklsdjlaksjdlasjld asdasndlasnldnasdiansdonasodasda sdasdajsdpjsapdjaskdpjaspkdjapsidmaksdmnasndkjasndkjas dsa kdjasndkjnaskdjnajskndkjasndkjasndkj aj dasdjnaskjnd') }}
-      <nav>
-        <RouterLink to="/">
-          Home
-        </RouterLink>
-        <RouterLink to="/about">
-          About
-        </RouterLink>
+            <HelloWorld msg="You did it!" />
+            {{ test('dasdasdasdas dasdaskdjaklsdjlaksjdlasjld asdasndlasnldnasdiansdonasodasda sdasdajsdpjsapdjaskdpjaspkdjapsidmaksdmnasndkjasndkjas dsa kdjasndkjnaskdjnajskndkjasndkjasndkj aj dasdjnaskjnd') }}
+            <nav>
+              <RouterLink to="/">
+                Home
+              </RouterLink>
+              <RouterLink to="/about">
+                About
+              </RouterLink>
       </nav>
     </div>
   </header>
